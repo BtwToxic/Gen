@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-BOT_TOKEN = "8524565104:AAFpLs0Qqj_MiogDVWwKm6VkQ67yNZZfo9I"
+BOT_TOKEN = "8524565104:AAGeD5CGThQxJCFQTyowPUgICJi-YuHJzhE"
 API_ID = 21705136
 API_HASH = "78730e89d196e160b0f1992018c6cb19"
 
